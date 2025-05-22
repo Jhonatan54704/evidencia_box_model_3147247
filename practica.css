@@ -25,7 +25,7 @@ padding(relleno) : capa entre el contenido y el borde
     border-style: solid;
     border-color: black;
     border-width: 10px;
-    margin: 100px;
+
 }
 .box2{
     display: block;
@@ -35,10 +35,6 @@ padding(relleno) : capa entre el contenido y el borde
     padding: 30px 40px 10px  20px ;
     border: dotted darkgray 5px;
     box-sizing: border-box;
-    margin-top: 60px;
-    margin-left: 10px;
-    margin-bottom: 20px;
-    
 
     /* propiedades width = ancho  height = alto (aplica solo en la capa de contenido)*/
 }
